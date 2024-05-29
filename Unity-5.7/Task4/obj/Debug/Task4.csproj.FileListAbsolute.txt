@@ -1,0 +1,7 @@
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\bin\Debug\Task4.exe.config
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\bin\Debug\Task4.exe
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\bin\Debug\Task4.pdb
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\obj\Debug\Task4.exe
+D:\GitHub\Unity-5.7\Unity-5.7\Task4\obj\Debug\Task4.pdb

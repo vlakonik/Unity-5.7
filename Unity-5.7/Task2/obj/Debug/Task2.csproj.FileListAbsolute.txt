@@ -1,0 +1,7 @@
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\bin\Debug\Task2.exe.config
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\bin\Debug\Task2.exe
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\bin\Debug\Task2.pdb
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\obj\Debug\Task2.exe
+D:\GitHub\Unity-5.7\Unity-5.7\Task2\obj\Debug\Task2.pdb
